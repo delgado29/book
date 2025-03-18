@@ -1,0 +1,5 @@
+node_modules/
+bookea/node_modules/
+api/vendor/
+api/storage/
+.env
